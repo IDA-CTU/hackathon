@@ -2,7 +2,7 @@
 
 V tomto repozitáři najdeš vše potřebné k odladění tvého modelu, aby tě odevzdávací systém ničím nepřekvapil.
 
-Odevzdávací systém beží na webu [hyperion.felk.cvut.cz:8081](http://hyperion.felk.cvut.cz:8081/).
+Odevzdávací systém beží na webu [hyperion.felk.cvut.cz](https://hyperion.felk.cvut.cz/).
 
 ## Struktura repozitáře
 * data/train_dataset.csv obsahuje trénovací data
